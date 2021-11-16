@@ -13,7 +13,7 @@
 * DBMS : Oracle Database 11g
 * Server : Apache Tomcat 9.0
 * Front-end : HTML5, CSS3, JavaScript, jQuery, Bootstrap4
-* Back-end : Java, Spring Framework, Mybatis, JSP
+* Back-end : Java, Spring MVC, Mybatis, JSP
    
 ## 시스템 설계   
 * ERD   
