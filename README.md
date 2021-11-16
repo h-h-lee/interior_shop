@@ -4,16 +4,18 @@
 * 개발기간 : 2021.10.01. ~ 2021.10.25.   
 * 참여인원 : 5명   
    
-## 프로젝트 개요   
-사용자는 쇼핑몰 사이트에서 쉽게 판매중인 상품들을 확인하고 구매할 수 있으며,   
-관리자는 관리자 사이트에서 상품관리, 회원관리 등 쇼핑몰 운영에 필요한 요소들을 관리 할 수 있습니다.   
+## 프로젝트 소개   
+- 인테리어/가구 전문 쇼핑몰과 관리자 페이지
+- 사용자는 쇼핑몰에서 상품을 주문하고 주문상태를 확인하고 문의와 후기를 작성 할 수 있다.
+- 관리자는 관리자페이지에서 회원, 주문, 상품, 카테고리, 관리자에 대한 관리를 할 수 있다.
+
    
 ## 개발환경 및 사용기술   
 * OS : Windows 10
 * DBMS : Oracle Database 11g
 * Server : Apache Tomcat 9.0
 * Front-end : HTML5, CSS3, JavaScript, jQuery, Bootstrap4
-* Back-end : Java, Spring, Mybatis, JSP
+* Back-end : Java, Spring Framework, Mybatis, JSP
    
 ## 시스템 설계   
 * ERD   
